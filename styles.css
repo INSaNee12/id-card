@@ -16,8 +16,7 @@ body{
     background: linear-gradient(126deg, rgba(0,79,168,1) 18%, rgba(0,43,91,1) 55%, rgba(0,43,91,1) 82%, rgba(0,79,168,1) 100%);
 }
 main{
-    max-width: 65%;
-    max-height: 65%;
+    width: 66rem;
     border-radius: 2.5rem;
     color: whitesmoke;
     border-style: solid;
@@ -27,7 +26,6 @@ h1{
     margin: 2rem;
     font-size: 4rem;
     font-weight: 300;
-
 }
 section{
     display: flex;
